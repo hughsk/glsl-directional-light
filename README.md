@@ -12,7 +12,7 @@ But this module also takes into account specualrity as well.
 
 [view demo](http://hughsk.io/glsl-directional-light)
 
-[![glsl-directional-light]()](http://hughsk.io/glsl-directional-light)
+[![glsl-directional-light](http://imgur.com/vbOZta5.png)](http://hughsk.io/glsl-directional-light)
 
 ## Usage ##
 
